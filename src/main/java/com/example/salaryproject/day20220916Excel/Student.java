@@ -12,6 +12,7 @@ import lombok.ToString;
 @Data
 @ToString
 public class Student {
+//    @ExcelProperty("学生姓名")
     private String stuName;
     private String stuId;
 }

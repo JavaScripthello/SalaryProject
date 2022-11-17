@@ -1,0 +1,4 @@
+#printTime.cron=
+
+print:
+  cron: 0/10 * * * * ?
